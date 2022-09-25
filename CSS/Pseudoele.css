@@ -1,0 +1,18 @@
+/* selector:: pseudo-element */
+p::first-line{
+  font-size:35px;
+  color: red;
+}
+
+h1::before{
+  content:"icon";
+}
+
+h1::after{
+  content: "added after";
+}
+
+::selection{
+  color: red;
+  background: yellow;
+}

@@ -1,0 +1,11 @@
+ul{
+    list-style-image:  ;
+}
+
+ol{
+    list-style-type: lower-alpha;
+}
+
+li{
+  border: 1px solid black;
+}

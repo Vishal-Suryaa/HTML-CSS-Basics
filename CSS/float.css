@@ -1,0 +1,57 @@
+/* #img1{
+  width: 100px;
+  height: 100px;
+
+}
+#img2{
+  width: 100px;
+  height: 100px;
+  float: left;
+  padding: 10px;
+} */
+
+
+/* ul{
+  background-color: green;
+  list-style-type: none;
+  overflow: auto;
+}
+li{
+  color: whitesmoke; 
+  padding: 10px 15px;
+  float: left;
+} */
+
+/* p{
+  border: 1px solid black;
+  overflow: auto;
+}
+img{
+  height: 100px;
+  width: 100px;
+  float: auto;
+}
+#img1{
+  float: right;
+}
+#img2{
+  float: right;
+  clear: right;
+} */
+
+#content{
+  width: 70%;
+  background-color: green;
+  height: 200px;
+  float: left;
+}
+#sidebar{
+  width: 30%;
+  background-color: indianred;
+  height: 150px;
+  float: left;
+}
+#footer{
+  background-color: yellowgreen;
+  clear: both;
+}

@@ -1,0 +1,10 @@
+#div1{
+  background-color:aqua;
+  height: 100px;
+  width: 100px;
+  /* max-width: 70%;      /* restriction */
+  /* max-height: 500px ; */ */
+  min-height: 200px;
+  min-width: 200px;
+  
+}

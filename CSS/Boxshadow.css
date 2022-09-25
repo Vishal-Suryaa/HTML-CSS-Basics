@@ -1,0 +1,11 @@
+div{
+   border: 1px solid green;
+   width: 500px;
+   padding: 50px;
+   margin: 100px;
+   background-color: yellowgreen;
+   border-radius: 10px;
+   box-shadow: 10px 20px 15px  grey; 
+   /* box-shadow: 10px 20px 15px  grey inset; ---shadow inside */
+   /* box-shadow: 10px 20px 15px  grey , 10px 20px 15px  red; --inside and outside shadow */
+}

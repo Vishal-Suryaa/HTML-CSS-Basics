@@ -1,0 +1,23 @@
+/* a[href="https://www.google.com"]{
+  color: red;
+} Attribute selector */
+
+/* *{
+  border: 1px solid red;
+} Universal selector */
+
+/* div a{
+  color: red;
+} */
+
+/* div>a{
+  color: red;
+} direct child */
+
+/* div+a{
+  color: red;
+} just sibling */
+
+/* h1,p{
+  color: red;
+} and selector */

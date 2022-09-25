@@ -1,0 +1,11 @@
+#bg{
+  color:  white;
+}
+body{
+  background-color: yellow;
+  background-image: url('always-grey.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}

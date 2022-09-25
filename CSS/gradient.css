@@ -1,0 +1,6 @@
+#ok{
+  border: 1px solid grey;
+  height: 500px;
+  /* background-image: linear-gradient(120deg, green,blue,red); */
+  background-image: radial-gradient(circle, yellow 10%,green);
+}

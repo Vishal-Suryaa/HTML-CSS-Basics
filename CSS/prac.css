@@ -1,0 +1,21 @@
+p{
+  color:blue;
+}
+#ok{
+  color:red;
+}
+
+.greentext{
+  color:green;
+}
+
+/* #ok{
+  color:yellow;
+} */
+
+#ok{
+  font-size: 50px ;
+}
+.underline-h{
+  text-decoration: underline  ;
+}

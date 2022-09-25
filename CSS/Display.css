@@ -1,0 +1,19 @@
+/* Block inline inline-block none */
+/* block -- div, p, h1, */
+/* inline -- img, a , span etc */
+/* #display{
+  border: 1px solid black;
+  width: 50%;
+  height: 4px;
+} */
+.display{
+  border: 1px solid red;
+  /* width: 50%;
+  height: 100px; */
+  display: none;
+}
+
+#div1{
+  /* display: none; */ --- it will ocupy space
+  /* visibility: hidden; */ ----- it will not occupy space
+}

@@ -1,0 +1,6 @@
+img{
+  /* filter: blur(2px); */
+     /* filter: grayscale(50%); */
+     filter: sepia(30%);
+  
+}

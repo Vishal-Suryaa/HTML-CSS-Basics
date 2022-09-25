@@ -1,0 +1,26 @@
+.gridcontainer{
+  background-color: red;
+  padding: 20px;
+  display: grid;
+  /* grid-template-columns: 100px 50% auto; */
+  grid-template-columns: 200px 300px 100px;
+  grid-template-rows: 100px 200px auto;
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
+  /* justify-content: space-evenly / center / space-between; */
+  
+}
+
+.griditem{
+  background-color:  wheat;
+  border: 1px solid black;
+  padding: 20px;
+  font-size: 40px;
+  text-align: center;
+}
+
+#grid-1{
+  /* grid-column-start: 1;
+  grid-column-end: 3; */
+  grid-area: 1/2/3/4;
+}

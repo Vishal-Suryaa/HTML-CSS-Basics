@@ -1,0 +1,41 @@
+body{
+  height: 1000px;
+}
+
+#parent{
+  border: 1px solid red;
+  padding: 20px;
+  width: 50%;
+  margin: 100px;
+  position: relative;
+
+}
+
+#one{
+  width: 100px;
+  height: 100px;
+  background-color:green;
+  display: inline-block;
+
+}
+
+#two{
+  width: 100px;
+  height: 100px;
+  background-color:blue;
+  display: inline-block;
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+
+
+
+}
+
+#three{
+  width: 100px;
+  height: 100px;
+  background-color:yellowgreen;
+  display: inline-block;
+
+}

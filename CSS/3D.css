@@ -1,0 +1,17 @@
+/* transform:: perspective(300px) rotate()
+perspective-origin: 50% 50%; */
+
+#cover{
+  border: 2px solid red;
+  height: 200px;
+  width: 200px;
+  margin: 150px;
+}
+
+#content{
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+  /* transform: perspective(300px) rotate3d(0,50,50,30deg); */
+  /* transform: perspective(300px) translate3d(50px,50px,50px); */
+  }

@@ -1,0 +1,12 @@
+div{
+  column-count: 3;
+  column-gap: 20px;
+  /* column-rule-style: dotted;
+  column-rule-width: 1px;
+  column-rule-color: yellowgreen; */
+  column-rule: 1px solid red; -- shortcut
+}
+
+h1{
+  countersp: ;
+}
